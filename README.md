@@ -4,8 +4,8 @@ This repo contains step-by-step guides, lab exercises, and Capture the Flag (CTF
 
 Each walkthrough demonstrates practical skills applied in simulated labs, vulnerable applications including : 
 
-web exploitation
-network security
-vulnerability assessment.
+i. web exploitation
+ii.  network security
+iii. vulnerability assessment.
 
 # My first Cybersecurity Walkthrough (Vuln-Bank) [(https://medium.com/@petersgoodluck64/list/reading-list)](https://medium.com/@goodypetes/list/reading-list)
